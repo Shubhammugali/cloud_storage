@@ -48,5 +48,4 @@ i  ui: Emulator UI logging to ui-debug.log
   Emulator Hub running at localhost:4400
   Other reserved ports: 4500
 
-Issues? Report them at https://github.com/firebase/firebase-tools/issues and attach the *-debug.log files.
-```
+
